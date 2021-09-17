@@ -1,4 +1,4 @@
-export class allModel {
+export class all {
 
     constructor() {        
     }
