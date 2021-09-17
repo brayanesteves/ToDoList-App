@@ -122,7 +122,7 @@ ul                                       { list-style-type: none; padding: 0; }
   .task-item:checked + label .label-text:before {
     background-color: var(--checkbox-color);
     border: none;
-    background-image: url('../img/svg/category-list/check.svg');
+    background-image: url('../img/svg/category-list/check.svg'); 
     background-repeat: no-repeat;
     background-size: 10px;
     background-position: center;
